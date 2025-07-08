@@ -1,4 +1,4 @@
-c21893796ded4dfa8de52033a2e582eeef59cffd### Hi there 👋
+ Hi there 👋
 
 <!--
 **argoan86/argoan86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
